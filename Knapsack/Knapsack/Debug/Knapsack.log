@@ -1,0 +1,10 @@
+﻿  CGeneticAlgorithm.cpp
+c:\users\stixon\source\repos\knapsack — kopia przed modyfikacją\knapsack\cgeneticalgorithm.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\stixon\source\repos\knapsack — kopia przed modyfikacją\knapsack\cgeneticalgorithm.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\stixon\source\repos\knapsack — kopia przed modyfikacją\knapsack\cgeneticalgorithm.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\stixon\source\repos\knapsack — kopia przed modyfikacją\knapsack\cgeneticalgorithm.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\stixon\source\repos\knapsack — kopia przed modyfikacją\knapsack\cgeneticalgorithm.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\stixon\source\repos\knapsack — kopia przed modyfikacją\knapsack\cgeneticalgorithm.cpp(182): warning C4018: '<': signed/unsigned mismatch
+  Skipping... (no relevant changes detected)
+  Main.cpp
+  Knapsack.vcxproj -> C:\Users\Stixon\source\repos\Knapsack — kopia przed modyfikacją\Debug\Knapsack.exe
